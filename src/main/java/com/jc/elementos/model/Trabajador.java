@@ -102,9 +102,7 @@ public class Trabajador implements Serializable {
         return true;
     }
 
-    @Override
-    public String toString() {
-        return "com.jc.elementos.model.Trabajador[ idTrabajador=" + idTrabajador + " ]";
-    }
+    
+    
     
 }
